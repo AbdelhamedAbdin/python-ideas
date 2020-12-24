@@ -1,0 +1,1 @@
+choice picks any random element from the list. shuffle swaps the items randomly within the list. So if you wanted to display a random item you'd use choice. If you wanted to randomise the order of the list you'd use shuffle..
